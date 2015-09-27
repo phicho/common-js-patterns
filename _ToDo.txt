@@ -1,0 +1,2 @@
+- separate the js code into js files
+- make the sample project in MVC 
